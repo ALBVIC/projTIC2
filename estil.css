@@ -14,3 +14,14 @@ h3{
     columns:1;
     text-align: center;
 }
+
+.horizontal {
+ display: inline;
+ margin: 20px;
+}
+
+.vertical {
+ display: flex;
+ align-self:center;
+ text-align: center;
+}
